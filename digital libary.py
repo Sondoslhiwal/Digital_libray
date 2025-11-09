@@ -141,5 +141,7 @@ def run_library_app():
         else:
             print("Invalid option. Please try again.")
 
-
+if __name__ == "__main__":
+    run_library_app()
         
+
